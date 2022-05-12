@@ -30,4 +30,8 @@
  <a href = "mailto:managerakemi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/akemilol/akemilol/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/akemilol/akemilol/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=akemilol1&repo=akemilol&theme=react)](https://github.com/akemilol/akemilol)
