@@ -31,7 +31,7 @@
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akemilol&show_icons=true&count_private=true&hide_border=true&title&theme=aura&show_icons=true" alt="Valeria santos github stats" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&hide_border=true&title&theme=aura&show_icons=true" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&hide_border=true&title&theme=aura&show_icons=true" />
 </div>
 
 
