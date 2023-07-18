@@ -8,7 +8,7 @@
  <div>
 - I'm studying Computer Science <br>
 - pronouns: she/her <br>
-- I'm in 3rd period in college
+- I'm in 4rd period in college
 </div>
 
  ##
