@@ -1,21 +1,22 @@
-
 ## Hi, I'm Valéria 👋
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+
 ### About me:
-- I'm 21 years old.
-- Studying Analysis, Development and Integration of Systems (ADS) at FIAP.
-- Currently in the 1st semester of college (1/4)
+- 🌱 I'm 21 years old.
+- 🖥️ Studying Analysis, Development and Integration of Systems (ADS) at FIAP.
+- 📫 Currently in the 1st semester of college (1/4)
 
 #
 
 ### Main Skills:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git"/>
   </a>
 
 ### Learning:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,typescript" />
+    <img src="https://skillicons.dev/icons?i=py,java,typescript"/>
   </a>
 
 #
@@ -25,7 +26,7 @@
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </div>
 
-## Talk to me !
+### Talk to me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/val%C3%A9riasantos/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:valeriaconcedsantos@gmail.com)
 
