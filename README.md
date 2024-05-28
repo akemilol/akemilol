@@ -23,7 +23,7 @@
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akemilol&show_icons=true&theme=tokyonight"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight" />
 </div>
 
 
