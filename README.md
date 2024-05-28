@@ -26,9 +26,18 @@
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </div>
 
+#
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akemilol/akemilol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akemilol/akemilol/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akemilol/akemilol/output/github-contribution-grid-snake.svg">
+</picture>
+
+#
+
 ### Talk to me:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/val%C3%A9riasantos/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:valeriaconcedsantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9riasantos/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:valeriaconcedsantos@gmail.com)
 
 
 
