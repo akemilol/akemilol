@@ -22,8 +22,8 @@
 #
 
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akemilol&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"/> 
-  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=akemilol&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"/> 
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemilol&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </div>
 
 #
