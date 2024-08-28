@@ -1,7 +1,5 @@
 ## Hi, I'm Valéria 👋
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-
 ### About me:
 - 🌱 I'm 21 years old.
 - 🖥️ Studying Analysis, Development and Integration of Systems (ADS) at FIAP.
