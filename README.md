@@ -11,12 +11,12 @@
 
 ### Main Skills:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,git,react"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,java,typescript,html,css,js,git,react"/>
   </a>
 
 ### Learning:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,typescript"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux"/>
   </a>
 
 #
